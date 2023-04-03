@@ -1,0 +1,1 @@
+var SubDomain = 'avlrc'; var SiteID = 'DEB467BD-3ADF-45A7-9CD3-4602F45D4C5C'; var host = 'https://api.eraconnect.net';
